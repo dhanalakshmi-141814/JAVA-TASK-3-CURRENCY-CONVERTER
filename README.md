@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+# Currency Converter
  Description
 The Currency Converter is a Java console application that allows users to convert an amount from one currency to another. The user selects the base currency, target currency, and enters the amount to be converted. The application calculates and displays the converted amount using predefined exchange rates.
 
